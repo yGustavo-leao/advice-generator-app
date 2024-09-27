@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/advice-generator-app/static/js/main.12ed8931.js",
+    "index.html": "/advice-generator-app/index.html",
+    "main.12ed8931.js.map": "/advice-generator-app/static/js/main.12ed8931.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.12ed8931.js"
+  ]
+}
